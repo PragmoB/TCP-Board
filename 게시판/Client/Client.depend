@@ -1,0 +1,223 @@
+# depslib dependency file v1.0
+1509896438 source:d:\c++ 자작\게시판\client\main.cpp
+	"PublicDeclare.h"
+	"AboutAccount.h"
+
+1509194190 d:\c++ 자작\게시판\client\account.h
+	<iostream>
+	<string.h>
+
+1508504202 d:\c++ 자작\게시판\client\board.h
+	<string>
+	"account.h"
+
+1509202690 source:g:\c++ 자작\게시판\client\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<unistd.h>
+	<cstring>
+	"account.h"
+	"board.h"
+	<winsock2.h>
+
+1509194190 g:\c++ 자작\게시판\client\account.h
+	<iostream>
+	<string.h>
+
+1508504202 g:\c++ 자작\게시판\client\board.h
+	<string>
+	"account.h"
+
+1509895162 source:d:\c++ 자작\게시판\client\aboutaccount.cpp
+	"PublicDeclare.h"
+
+1509462140 d:\c++ 자작\게시판\client\publicdeclare.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<unistd.h>
+	<cstring>
+	"account.h"
+	"board.h"
+	<winsock2.h>
+
+1509630052 d:\c++ 자작\게시판\client\aboutaccount.h
+
+1515432922 source:d:\c++ project\게시판\client\aboutaccount.cpp
+	"PublicDeclare.h"
+	"PDU.h"
+
+1513258964 d:\c++ project\게시판\client\publicdeclare.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<unistd.h>
+	<cstdlib>
+	<cstring>
+	<vector>
+	<winsock2.h>
+	<mmsystem.h>
+
+1509194190 d:\c++ project\게시판\client\account.h
+	<iostream>
+	<string.h>
+
+1508504202 d:\c++ project\게시판\client\board.h
+	<string>
+	"account.h"
+
+1515477842 source:d:\c++ project\게시판\client\main.cpp
+	"PublicDeclare.h"
+	"AboutAccount.h"
+	"AboutBoard.h"
+
+1512133224 d:\c++ project\게시판\client\aboutaccount.h
+
+1513953692 d:\c++ project\게시판\client\pdu.h
+
+1515432922 source:g:\c++ project\게시판\client\aboutaccount.cpp
+	"PublicDeclare.h"
+	"PDU.h"
+
+1513258964 g:\c++ project\게시판\client\publicdeclare.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<unistd.h>
+	<cstdlib>
+	<cstring>
+	<vector>
+	<winsock2.h>
+	<mmsystem.h>
+
+1509194190 g:\c++ project\게시판\client\account.h
+	<iostream>
+	<string.h>
+
+1508504202 g:\c++ project\게시판\client\board.h
+	<string>
+	"account.h"
+
+1513953692 g:\c++ project\게시판\client\pdu.h
+
+1515508322 source:d:\c++ project\게시판\client\aboutboard.cpp
+	"PublicDeclare.h"
+	"PDU.h"
+
+1511602788 d:\c++ project\게시판\client\aboutboard.h
+
+1527725380 source:g:\c++ project\게시판\client\main.cpp
+	"PublicDeclare.h"
+	"AboutAccount.h"
+	"AboutBoard.h"
+
+1512133224 g:\c++ project\게시판\client\aboutaccount.h
+
+1511602788 g:\c++ project\게시판\client\aboutboard.h
+
+1515508322 source:g:\c++ project\게시판\client\aboutboard.cpp
+	"PublicDeclare.h"
+	"PDU.h"
+
+1512118162 source:g:\c++ project\게시판\client\gotoxy.cpp
+	"PublicDeclare.h"
+
+1512118162 source:d:\c++ project\게시판\client\gotoxy.cpp
+	"PublicDeclare.h"
+
+1515432922 source:h:\c++ project\게시판\client\aboutaccount.cpp
+	"PublicDeclare.h"
+	"PDU.h"
+
+1513258964 h:\c++ project\게시판\client\publicdeclare.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<unistd.h>
+	<cstdlib>
+	<cstring>
+	<vector>
+	<winsock2.h>
+	<mmsystem.h>
+
+1513953692 h:\c++ project\게시판\client\pdu.h
+
+1515508322 source:h:\c++ project\게시판\client\aboutboard.cpp
+	"PublicDeclare.h"
+	"PDU.h"
+
+1512118162 source:h:\c++ project\게시판\client\gotoxy.cpp
+	"PublicDeclare.h"
+
+1515432922 source:h:\21130 지원재c++ project\게시판\client\aboutaccount.cpp
+	"PublicDeclare.h"
+	"PDU.h"
+
+1513258964 h:\21130 지원재c++ project\게시판\client\publicdeclare.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<unistd.h>
+	<cstdlib>
+	<cstring>
+	<vector>
+	<winsock2.h>
+	<mmsystem.h>
+
+1513953692 h:\21130 지원재c++ project\게시판\client\pdu.h
+
+1527772398 source:h:\21130 지원재c++ project\게시판\client\aboutboard.cpp
+	"PublicDeclare.h"
+	"PDU.h"
+
+1512118162 source:h:\21130 지원재c++ project\게시판\client\gotoxy.cpp
+	"PublicDeclare.h"
+
+1527769226 source:h:\21130 지원재c++ project\게시판\client\main.cpp
+	"PublicDeclare.h"
+	"AboutAccount.h"
+	"AboutBoard.h"
+
+1512133224 h:\21130 지원재c++ project\게시판\client\aboutaccount.h
+
+1511602788 h:\21130 지원재c++ project\게시판\client\aboutboard.h
+
+1543416844 source:d:\플래그모\myresults\c++ project\게시판\client\aboutaccount.cpp
+	"PublicDeclare.h"
+	"PDU.h"
+
+1543416844 d:\플래그모\myresults\c++ project\게시판\client\publicdeclare.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<unistd.h>
+	<cstdlib>
+	<cstring>
+	<vector>
+	<winsock2.h>
+	<mmsystem.h>
+
+1543416848 d:\플래그모\myresults\c++ project\게시판\client\pdu.h
+
+1543416848 source:d:\플래그모\myresults\c++ project\게시판\client\aboutboard.cpp
+	"PublicDeclare.h"
+	"PDU.h"
+
+1543416844 source:d:\플래그모\myresults\c++ project\게시판\client\gotoxy.cpp
+	"PublicDeclare.h"
+
+1592622809 source:d:\플래그모\myresults\c++ project\게시판\client\main.cpp
+	"PublicDeclare.h"
+	"AboutAccount.h"
+	"AboutBoard.h"
+
+1592623182 d:\플래그모\myresults\c++ project\게시판\client\aboutaccount.h
+	"AboutAccount.cpp"
+
+1543416846 d:\플래그모\myresults\c++ project\게시판\client\aboutboard.h
+
+1543416844 d:\플래그모\myresults\c++ project\게시판\client\aboutaccount.cpp
+	"PublicDeclare.h"
+	"PDU.h"
+
