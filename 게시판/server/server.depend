@@ -1,0 +1,160 @@
+# depslib dependency file v1.0
+1509896246 source:d:\c++ 자작\게시판\server\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<unistd.h>
+	<cstring>
+	<winsock2.h>
+	<sqlite3.h>
+	<thread>
+	<process.h>
+	<map>
+	<vector>
+	"account.h"
+	"board.h"
+	"ConnectionClosed.h"
+
+1509858896 d:\c++ 자작\게시판\server\account.h
+	<iostream>
+	<string.h>
+
+1508933458 d:\c++ 자작\게시판\server\board.h
+	<string>
+	"account.h"
+
+1503586716 d:\c++ 자작\게시판\server\sqlite3.h
+	<stdarg.h>
+
+1509247824 source:g:\c++ 자작\게시판\server\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<unistd.h>
+	<cstring>
+	<winsock2.h>
+	<sqlite3.h>
+	<thread>
+	<process.h>
+	<map>
+	<vector>
+	"account.h"
+	"board.h"
+
+1509200414 g:\c++ 자작\게시판\server\account.h
+	<iostream>
+	<string.h>
+
+1508933458 g:\c++ 자작\게시판\server\board.h
+	<string>
+	"account.h"
+
+1509893050 d:\c++ 자작\게시판\server\connectionclosed.h
+	<iostream>
+
+1513434278 source:g:\c++ project\게시판\server\main.cpp
+	"PublicDeclare.h"
+	"PDU.h"
+	"AboutAccount.h"
+	"AboutBoard.h"
+	<thread>
+	<process.h>
+
+1509858896 g:\c++ project\게시판\server\account.h
+	<iostream>
+	<string.h>
+
+1508933458 g:\c++ project\게시판\server\board.h
+	<string>
+	"account.h"
+
+1509893050 g:\c++ project\게시판\server\connectionclosed.h
+	<iostream>
+
+1513434278 source:d:\c++ project\게시판\server\main.cpp
+	"PublicDeclare.h"
+	"PDU.h"
+	"AboutAccount.h"
+	"AboutBoard.h"
+	<thread>
+	<process.h>
+
+1509957882 d:\c++ project\게시판\server\account.h
+	<iostream>
+	<string.h>
+
+1508933458 d:\c++ project\게시판\server\board.h
+	<string>
+	"account.h"
+
+1509893050 d:\c++ project\게시판\server\connectionclosed.h
+	<iostream>
+
+1513953692 d:\c++ project\게시판\server\pdu.h
+
+1512219036 source:d:\c++ project\게시판\server\aboutaccount.cpp
+	"PublicDeclare.h"
+	"PDU.h"
+	"EncordingSet.h"
+
+1513168986 d:\c++ project\게시판\server\publicdeclare.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<unistd.h>
+	<cstring>
+	<winsock2.h>
+	<sqlite3.h>
+	<map>
+	<vector>
+
+1510646804 d:\c++ project\게시판\server\encordingset.h
+
+1511442702 source:d:\c++ project\게시판\server\encordingset.cpp
+	"PublicDeclare.h"
+
+1511536714 d:\c++ project\게시판\server\aboutaccount.h
+	"PublicDeclare.h"
+	"PDU.h"
+
+1515432786 source:d:\c++ project\게시판\server\aboutboard.cpp
+	"PublicDeclare.h"
+	"PDU.h"
+	"EncordingSet.h"
+
+1511442702 source:g:\c++ project\게시판\server\encordingset.cpp
+	"PublicDeclare.h"
+
+1513168986 g:\c++ project\게시판\server\publicdeclare.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<unistd.h>
+	<cstring>
+	<winsock2.h>
+	<sqlite3.h>
+	<map>
+	<vector>
+
+1513953692 g:\c++ project\게시판\server\pdu.h
+
+1511536714 g:\c++ project\게시판\server\aboutaccount.h
+	"PublicDeclare.h"
+	"PDU.h"
+
+1512219036 source:g:\c++ project\게시판\server\aboutaccount.cpp
+	"PublicDeclare.h"
+	"PDU.h"
+	"EncordingSet.h"
+
+1510646804 g:\c++ project\게시판\server\encordingset.h
+
+1515425954 source:g:\c++ project\게시판\server\aboutboard.cpp
+	"PublicDeclare.h"
+	"PDU.h"
+	"EncordingSet.h"
+
+1513434278 d:\c++ project\게시판\server\aboutboard.h
+
+1513434278 g:\c++ project\게시판\server\aboutboard.h
+

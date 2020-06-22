@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="server" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/server" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c++11" />
+					<Add option="-m64" />
+					<Add option="-m32" />
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add option="-m64" />
+					<Add option="-m32" />
+					<Add library="C:/Program Files (x86)/CodeBlocks/MinGW/lib/libwsock32.a" />
+					<Add library="C:/Program Files (x86)/CodeBlocks/MinGW/lib/libsqlite3.a" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/server" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-std=c++11" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="C:/Program Files (x86)/CodeBlocks/MinGW/lib/libsqlite3.a" />
+					<Add library="C:/Program Files (x86)/CodeBlocks/MinGW/lib/libwsock32.a" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="AboutAccount.cpp" />
+		<Unit filename="AboutAccount.h" />
+		<Unit filename="AboutBoard.cpp" />
+		<Unit filename="AboutBoard.h" />
+		<Unit filename="EncordingSet.cpp" />
+		<Unit filename="EncordingSet.h" />
+		<Unit filename="PDU.h" />
+		<Unit filename="PublicDeclare.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
